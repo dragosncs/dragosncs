@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @dragosncs
-- 👀 I’m interested in Programming, Web Design.
-- 🌱 I’m currently learning Python, JS, CSS, Docker, REST & API, Node.js
-- 💞️ I’m looking for an Internship or a Job
-- 📫 How to reach me dragosncs@gmail.com
+- 👋 Hi, I’m Dragos Neacsu
+- 👀 I’m interested in Programming & Mobile Applications
+- 🌱 I’m currently learning iOS
 
 <!---
 dragosncs/dragosncs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
