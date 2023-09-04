@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dragos Neacsu
 - 👀 I’m interested in Programming & Mobile Applications
-- 🌱 I’m currently learning iOS
+- 🌱 I’m currently learning iOS Development
 
 <!---
 dragosncs/dragosncs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
